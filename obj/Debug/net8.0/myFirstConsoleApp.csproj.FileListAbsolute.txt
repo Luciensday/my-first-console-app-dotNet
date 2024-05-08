@@ -12,3 +12,7 @@
 /Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.pdb
 /Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.genruntimeconfig.cache
 /Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/ref/myFirstConsoleApp.dll
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.csproj.AssemblyReference.cache
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.sourcelink.json
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/bin/Debug/net8.0/PasswordGenerator.dll
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstC.B267D2DE.Up2Date

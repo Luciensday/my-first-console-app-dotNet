@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UCdkNQa3TM/eYcLIWULAsGE1rR/gGQhW2hbEVeJhZVW9fcLDaglXA7RBeU90diXVrFo3WHppDtpJgh+8H8i0yA==",
+  "dgSpecHash": "qB5Mfsmk4z3dVSu1EoXxXp0/yktNwvgxSthvaxLtWdZU4TtYhq7um9k2uizHvq31WQexAygT++7L7zkRTdhSQw==",
   "success": true,
   "projectFilePath": "/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/myFirstConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/lucien/.nuget/packages/passwordgenerator/2.1.0/passwordgenerator.2.1.0.nupkg.sha512"
+  ],
   "logs": []
 }
