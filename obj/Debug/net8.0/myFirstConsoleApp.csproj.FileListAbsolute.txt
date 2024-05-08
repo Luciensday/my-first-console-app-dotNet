@@ -1,0 +1,14 @@
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/bin/Debug/net8.0/myFirstConsoleApp
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/bin/Debug/net8.0/myFirstConsoleApp.deps.json
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/bin/Debug/net8.0/myFirstConsoleApp.runtimeconfig.json
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/bin/Debug/net8.0/myFirstConsoleApp.dll
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/bin/Debug/net8.0/myFirstConsoleApp.pdb
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.AssemblyInfoInputs.cache
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.AssemblyInfo.cs
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.dll
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/refint/myFirstConsoleApp.dll
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.pdb
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/myFirstConsoleApp.genruntimeconfig.cache
+/Users/lucien/Desktop/lucien-webpage/myFirstConsoleApp/myFirstConsoleApp/obj/Debug/net8.0/ref/myFirstConsoleApp.dll
